@@ -216,4 +216,5 @@
   <specification key="us-quality-core" name="US Quality Core Implementation Guide"/>
   <specification key="testing" name="Testing Incubator IG"/>
   <specification key="sql-on-fhir" name="SQL on FHIR"/>
+  <specification key="mapping-language" name="FHIR Mapping Language"/>
 </specifications>
