@@ -181,6 +181,7 @@
   <specification key="ebm-incubator" name="Evidence Based Medicine Incubator FHIR implementation guide"/>
   <specification key="au-base" name="AU Base"/>
   <specification key="au-core" name="AU Core"/>
+  <specification key="au-encounter" name="AU Encounter Record"/>
   <specification key="au-erequesting" name="AU eRequesting"/>
   <specification key="au-pd" name="AU Provider Directory"/>
   <specification key="au-ps" name="AU Patient Summary"/>
